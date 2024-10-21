@@ -1,11 +1,11 @@
 # Geometric and Physical Commonsense Reasoning based Behavior Intelligence for Embodied AI 
 <a href="https://unist.info/" target="_blank"><img src="https://img.shields.io/badge/Homepage-7fffd4?style=plastic&logo=Gunicorn&logoColor=000000"/></a>
 
-## Members
+# Members
 
-# Professor 과제 책임자
-- Kyungdon Joo
-
+## Professor 과제 책임자
+- Kyungdon Joo 
+- 
 
 
 Students (including researchers)
