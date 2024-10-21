@@ -1,16 +1,15 @@
 # Geometric and Physical Commonsense Reasoning based Behavior Intelligence for Embodied AI 
-<a href="https://unist.info/" target="_blank"><img src="https://img.shields.io/badge/Homepage-7fffd4?style=plastic&logo=Gunicorn&logoColor=000000"/></a>
-
+- Research Period: April 2022 – December 2026
 
 <img src="../src/Teaser1.png"/>
 <img src="../src/Teaser2.png"/>
 
-# Members
-
-## Professor 과제 책임자
-- Kyungdon Joo 
-  
-
+## Consortium Collaborators
+- Kyungdon Joo (Principal Investigator) <a href="https://unist.info/" target="_blank"><img src="https://img.shields.io/badge/link-blue"/></a>
+- Sungbin Lim <a href="https://www.sungbin-lim.net/" target="_blank"><img src="https://img.shields.io/badge/link-blue"/></a>
+- Sungjoon Choi <a href="https://sites.google.com/view/sungjoon-choi/home" target="_blank"><img src="https://img.shields.io/badge/link-blue"/></a>
+- Eunsol Kim <a href="http://hyumllab.hanyang.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/link-blue"/></a>
+- Beomjoon Kim <a href="https://beomjoonkim.github.io/" target="_blank"><img src="https://img.shields.io/badge/link-blue"/></a>
 
 ## Publications
 - DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction (CVPR 2024) [[Link]](https://arxiv.org/abs/2403.05005) 
