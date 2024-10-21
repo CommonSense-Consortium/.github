@@ -5,10 +5,8 @@
 
 ## Professor 과제 책임자
 - Kyungdon Joo 
-- 
+  
 
-
-Students (including researchers)
 
 ## Publications
 [CVPR 2024] [DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://arxiv.org/abs/2403.05005)
@@ -25,6 +23,6 @@ Students (including researchers)
 ## Promotion
 
 ## Acknowledgement
-
+This work was supported by Institute for Information & Communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) [No. RS-2022-II220612, Geometric and Physical Commonsense Reasoning based Behavior Intelligence for Embodied AI] and No. [RS-2020-II201336, Artificial Intelligence Graduate School Program~(UNIST)].
 
 ## Contact information
