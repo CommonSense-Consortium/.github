@@ -23,7 +23,7 @@
 ## Promotion
 
 ## Acknowledgement
-This work was supported by Institute for Information & Communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) [No. RS-2022-II220612, Geometric and Physical Commonsense Reasoning based Behavior Intelligence for Embodied AI] and No. [RS-2020-II201336, Artificial Intelligence Graduate School Program~(UNIST)].
+This work was supported by Institute for Information & Communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) [No. RS-2022-II220612, Geometric and Physical Commonsense Reasoning based Behavior Intelligence for Embodied AI].
 
 ## Contact information
-If you have any inquiries, please contact ~
+If you have any inquiries, please contact Kyungdon Joo (vision3d-lab@unist.ac.kr).
