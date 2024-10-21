@@ -1,5 +1,4 @@
 # Geometric and Physical Commonsense Reasoning based Behavior Intelligence for Embodied AI 
-- 
 - Research Period: April 1, 2022 ~ December 31, 2026
 
 <img src="../src/Teaser1.png"/>
