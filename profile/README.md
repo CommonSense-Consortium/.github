@@ -5,11 +5,11 @@
 <img src="../src/Teaser2.png"/>
 
 ## Consortium Collaborators
-- [Kyungdon Joo](https://unist.info/) (Principal Investigator) @ Ulsan National Institute of Science and Technology (UNIST)
-- [Sungbin Lim](https://www.sungbin-lim.net/) @ Korea University
-- [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home) @ Korea University
-- [Eunsol Kim](http://hyumllab.hanyang.ac.kr/) @ Hanyang University
-- [Beomjoon Kim](https://beomjoonkim.github.io/) @ Korea Advanced Institute of Science and Technology (KAIST)
+- [Kyungdon Joo](https://unist.info/) (Principal Investigator) [Ulsan National Institute of Science and Technology (UNIST)]
+- [Sungbin Lim](https://www.sungbin-lim.net/) [Korea University]
+- [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home) [Korea University]
+- [Eunsol Kim](http://hyumllab.hanyang.ac.kr/) [Hanyang University]
+- [Beomjoon Kim](https://beomjoonkim.github.io/) [Korea Advanced Institute of Science and Technology (KAIST)]
 
 
 ## Publications
