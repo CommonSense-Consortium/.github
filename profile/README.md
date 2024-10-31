@@ -5,7 +5,10 @@
 <img src="../src/Teaser2.png"/>
 
 ## Consortium Collaborators
-- [Kyungdon Joo](https://unist.info/) @ UNIST (Principal Investigator)
+**Principal Investigator**
+- [Kyungdon Joo](https://unist.info/) @ UNIST
+
+**Collaborators**
 - [Sungbin Lim](https://www.sungbin-lim.net/) @ Korea University
 - [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home) @ Korea University
 - [Eunsol Kim](http://hyumllab.hanyang.ac.kr/) @ Hanyang University
