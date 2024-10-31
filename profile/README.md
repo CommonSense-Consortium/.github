@@ -6,13 +6,13 @@
 
 ## Consortium Collaborators
 **Principal Investigator**
-- [Kyungdon Joo](https://unist.info/) @ Ulsan National Institute of Science and Technology, UNIST
+- [Kyungdon Joo](https://unist.info/) @ Ulsan National Institute of Science and Technology
 
 **Collaborators**
 - [Sungbin Lim](https://www.sungbin-lim.net/) @ Korea University
 - [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home) @ Korea University
 - [Eunsol Kim](http://hyumllab.hanyang.ac.kr/) @ Hanyang University
-- [Beomjoon Kim](https://beomjoonkim.github.io/) @ Korea Advanced Institute of Science and Technology, KAIST 
+- [Beomjoon Kim](https://beomjoonkim.github.io/) @ Korea Advanced Institute of Science and Technology 
 
 
 ## Publications
